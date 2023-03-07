@@ -1,0 +1,3 @@
+/home/gardenia/tiny_muduo/build/CMakeFiles/rebuild_cache.dir
+/home/gardenia/tiny_muduo/build/CMakeFiles/edit_cache.dir
+/home/gardenia/tiny_muduo/build/CMakeFiles/tinymuduo.dir
